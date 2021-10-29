@@ -50,7 +50,6 @@ const charBox = (number) => {
       finalAnswer.push(arr);
     }
   }
-  console.log(finalAnswer);
   return finalAnswer;
 };
 
