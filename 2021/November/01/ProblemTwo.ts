@@ -18,3 +18,9 @@
  * !    -There will be no negative values for the second parameter y.
  * !    -This challenge is more like recreating of the right shift operation, thus, the use of the operator directly is prohibited.
  */
+
+export const shiftToRight = (a, b) => {
+  let x;
+  x = Math.floor(a / Math.floor(Math.pow(2, b)));
+  return x;
+};

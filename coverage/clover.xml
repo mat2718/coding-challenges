@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1635871616658" clover="3.2.0">
-  <project timestamp="1635871616658" name="All files">
-    <metrics statements="65" coveredstatements="64" conditionals="15" coveredconditionals="14" methods="5" coveredmethods="5" elements="85" coveredelements="83" complexity="0" loc="65" ncloc="65" packages="2" files="3" classes="3"/>
+<coverage generated="1635951824248" clover="3.2.0">
+  <project timestamp="1635951824248" name="All files">
+    <metrics statements="66" coveredstatements="65" conditionals="15" coveredconditionals="14" methods="6" coveredmethods="6" elements="87" coveredelements="85" complexity="0" loc="66" ncloc="66" packages="2" files="4" classes="4"/>
     <package name="November.01">
-      <metrics statements="21" coveredstatements="21" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>
+      <metrics statements="22" coveredstatements="22" conditionals="5" coveredconditionals="5" methods="3" coveredmethods="3"/>
       <file name="ProblemOne.ts" path="C:\Users\MATTH\OneDrive\Documents\GitHub\coding-challenges\2021\November\01\ProblemOne.ts">
-        <metrics statements="21" coveredstatements="21" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>
-        <line num="18" count="1" type="stmt"/>
-        <line num="19" count="4" type="stmt"/>
+        <metrics statements="19" coveredstatements="19" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>
+        <line num="19" count="1" type="stmt"/>
         <line num="20" count="4" type="stmt"/>
-        <line num="21" count="17" type="cond" truecount="2" falsecount="0"/>
-        <line num="22" count="9" type="stmt"/>
-        <line num="24" count="8" type="stmt"/>
-        <line num="27" count="4" type="stmt"/>
-        <line num="28" count="17" type="cond" truecount="2" falsecount="0"/>
-        <line num="29" count="8" type="stmt"/>
-        <line num="31" count="9" type="stmt"/>
-        <line num="34" count="4" type="stmt"/>
-        <line num="37" count="1" type="stmt"/>
-        <line num="38" count="5" type="stmt"/>
-        <line num="43" count="5" type="stmt"/>
-        <line num="44" count="29" type="cond" truecount="1" falsecount="0"/>
-        <line num="45" count="17" type="stmt"/>
-        <line num="53" count="5" type="stmt"/>
-        <line num="54" count="12" type="stmt"/>
-        <line num="56" count="5" type="stmt"/>
-        <line num="60" count="1" type="stmt"/>
-        <line num="61" count="1" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="22" count="17" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="9" type="stmt"/>
+        <line num="25" count="8" type="stmt"/>
+        <line num="28" count="4" type="stmt"/>
+        <line num="29" count="17" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="8" type="stmt"/>
+        <line num="32" count="9" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="4" type="stmt"/>
+        <line num="41" count="4" type="stmt"/>
+        <line num="42" count="17" type="cond" truecount="1" falsecount="0"/>
+        <line num="43" count="9" type="stmt"/>
+        <line num="46" count="4" type="stmt"/>
+        <line num="47" count="8" type="stmt"/>
+        <line num="49" count="4" type="stmt"/>
+      </file>
+      <file name="ProblemTwo.ts" path="C:\Users\MATTH\OneDrive\Documents\GitHub\coding-challenges\2021\November\01\ProblemTwo.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+        <line num="25" count="6" type="stmt"/>
       </file>
     </package>
     <package name="October.29">

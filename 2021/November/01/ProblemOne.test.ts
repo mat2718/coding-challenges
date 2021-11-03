@@ -4,7 +4,7 @@ const testObjects = [
   [1, 2, 0, 0, 4, 0, 5],
   [0, 0, 2, 0, 5],
   [4, 4, 5],
-  [0, 0]
+  [0, 0],
 ];
 
 const testResults = [
@@ -22,12 +22,12 @@ describe("[zeroesToEnd TEST]", () => {
   });
 
   it("[Test 2.0]", async () => {
-    const res = await zeroesToEnd(testObjects[1]));
+    const res = await zeroesToEnd(testObjects[1]);
     expect(res).toEqual(testResults[1]);
   });
 
   it("[Test 3.0]", async () => {
-    const res = await zeroesToEnd([testObjects[2]);
+    const res = await zeroesToEnd(testObjects[2]);
     expect(res).toEqual(testResults[2]);
   });
 
